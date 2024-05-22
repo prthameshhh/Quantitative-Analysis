@@ -1,4 +1,4 @@
- # Quantitative Stock Analysis README
+ # Quantitative Stock Analysis  
 
 This repository contains code and analysis for performing quantitative analysis on stocks from four major sectors in the National Stock Exchange (NSE): FMCG, Banking, Healthcare, and Energy. Below is an overview of the analyses performed and the contents of this repository.
 
